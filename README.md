@@ -1,6 +1,6 @@
 # Easymail
 
-Easymail is a simple, one-page Python app with a Tkinter UI that converts user-generated text input into HTML, and inserts it into an HTML template for fundraising-style emails. This was initially developed as a a project for a previous non-profit employer, and is now being developed as a personal project. Note that the current HTML template is rough, and can be updated by changing the hero_template.txt file in the templates folder.
+Easymail is a simple, one-page Python app with a Tkinter UI that converts user-generated text input into HTML, and inserts it into an HTML template for fundraising-style emails. This was initially developed as a a project for a previous non-profit employer in 2019, and is now being developed as a personal project. Note that the current HTML template is rough, and can be updated by changing the hero_template.txt file in the templates folder.
 
 <strong>To Run:</strong>
 
