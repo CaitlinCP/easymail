@@ -12,4 +12,4 @@ Navigate to the Easymail folder and run <code>python app.py</code>
 
 <strong>Using Easymail:</strong>
 
-Users will add information needed to generate the email (image url, link url, etc) in a form above the text input. Then, users will paste text into the input box, and add formatting tags by highlighting text and selecting a tag from the toolbar above the input menu.
+Users will add information needed to generate the email (image url, link url, etc) in a form above the text input. Then, users will paste text into the input box, and add formatting tags by highlighting text and selecting a tag from the toolbar above the input menu. Once they are finished adding the tags to the text body, they can click the HTML button to view the automatically generated HTML for the email. The generated HTML can be viewed by saving it to an html file and opening it in a browser.
