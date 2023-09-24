@@ -1,0 +1,5 @@
+<!-- HTML Button -->
+<div class="button">
+							<a href="{%%URL%%~button2}"">DONATE NOW</a></div>
+
+							

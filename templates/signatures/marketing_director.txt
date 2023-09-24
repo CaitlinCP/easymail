@@ -1,0 +1,6 @@
+<p class="message-content mobile-center" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.5;margin-top:0;margin-bottom:0;text-align:left;color:#000;font-weight:normal;"><span style="font-size:16px;"><img alt="" class="emailImage" data-ratio-lock="true" data-unit="px" height="49px" src="" style="height: 49px; width: 130px;" width="130px" /><br />
+						Firstname Lastname</span></p>
+						<!-- Last p tag in each row should have margin-bottom:0 -->
+
+						<p class="message-content mobile-center" style="font-family:Arial, Helvetica, sans-serif;font-size:16px;line-height:1.5;margin-top:0;margin-bottom:0rem;text-align:left;color:#000;font-weight:normal;"><span style="font-size:16px;">Marketing Director<br />
+						Organization Name</span></p>
